@@ -1,2 +1,1 @@
-# AndroidVpnFilterBypass
-An Android Xposed module. Once enabled, VPN will no longer only proxy/exclude certain applications, and ultimately achieve a global VPN effect.
+An Android Xposed module designed to bypass VPN app-specific proxy/exclusion restrictions, enabling global VPN traffic routing for all applications
